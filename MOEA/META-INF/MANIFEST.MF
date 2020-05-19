@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 19.1-b02 (Sun Microsystems Inc.)
+Built-By: Peter Troshin
+Implementation-Title: Java Bioinformatics Analyses Web Services Client
+  Source Code
+Implementation-Vendor: Peter Troshin
+Implementation-URL: http://www.compbio.dundee.ac.uk/jabaws
+
